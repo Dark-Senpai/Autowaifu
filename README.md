@@ -1,2 +1,1 @@
-# Autowaifu
-Hehe ! 🤖
+# Auto Waifu Plugin For UB
